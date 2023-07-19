@@ -136,6 +136,8 @@
 }
 .body-img-container {
   width: 50%;
+  margin-bottom: 10%;
+  position: relative;
 }
 .body-img {
   width: 50%;
@@ -143,7 +145,17 @@
   margin: 0 auto;
   display: block;
 }
+.sticky {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 59%;
+  left: 58%;
+}
 .stick-img {
+  width: 60%;
+  height: auto;
 }
 .body-img-text {
   width: 50%;
