@@ -102,6 +102,9 @@
 }
 
 /* Footer */
+.footer-section {
+  height: 100vh;
+}
 .footer-menu-icon {
   display: flex;
   align-items: center;
@@ -115,8 +118,6 @@
   margin-right: 10px;
 }
 .footer-menu-section {
-  /* display: flex; */
-  /* justify-content: center; */
 }
 .footer-menu-icon {
 }
