@@ -126,6 +126,13 @@
   margin-right: 65px;
 }
 
+/* Body */
+
+.body-img {
+  width: 500px;
+  height: auto;
+}
+
 /* Footer */
 .footer-section {
   width: 100%;

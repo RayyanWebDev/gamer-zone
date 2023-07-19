@@ -30,4 +30,10 @@
   }
   .footer-section {
   }
+  .card-container {
+    flex-direction: column;
+  }
+  .card-texts {
+    flex-direction: column;
+  }
 }
