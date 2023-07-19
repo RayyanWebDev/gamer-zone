@@ -34,7 +34,8 @@
   /* border: 1px solid green; */
   width: 50%;
   display: flex;
-  justify-content: space-between;
+  gap: 3rem;
+  /* justify-content: space-between; */
   align-items: center;
 }
 .menus {
@@ -47,9 +48,10 @@
   border-radius: 10px;
   border-style: none;
   padding: 10px 20px;
-
   background-color: rgb(231, 230, 233);
 }
 .banner-btns {
   display: flex;
+  gap: 2rem;
+  padding: 1rem 0rem;
 }
