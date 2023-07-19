@@ -11,4 +11,19 @@
   .menu-btn {
     margin-top: 20px;
   }
+  .menu-icon {
+    width: 50%;
+  }
+  .banner-text {
+    width: 100%;
+  }
+  .banner-img-container {
+    width: 100%;
+  }
+  .banner-text {
+    width: 100%;
+  }
+  .banner-container {
+    flex-direction: column;
+  }
 }
