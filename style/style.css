@@ -117,7 +117,19 @@
 .footer-icon {
   margin-right: 10px;
 }
-.footer-menu-section {
+.footer-menu {
+  display: flex;
+  justify-content: center;
 }
-.footer-menu-icon {
+.footer-icon-section {
+  display: flex;
+  justify-content: center;
+}
+.terms-conditions {
+  display: flex;
+  justify-content: center;
+}
+.copyright {
+  display: flex;
+  justify-content: center;
 }
