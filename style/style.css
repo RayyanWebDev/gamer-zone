@@ -132,9 +132,16 @@
   min-height: 150px;
   display: flex;
   align-items: center;
+  margin: 0 auto;
 }
 .body-img-container {
   width: 50%;
+}
+.body-img {
+  width: 50%;
+  height: 70%;
+  margin: 0 auto;
+  display: block;
 }
 .stick-img {
 }
