@@ -70,8 +70,9 @@
   color: white;
 }
 .banner-img {
-  height: 480px;
-  width: 570px;
+  /* height: 480px; */
+  width: 100%;
+  height: auto;
 }
 .banner-container {
   display: flex;
