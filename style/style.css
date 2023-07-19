@@ -101,6 +101,14 @@
   background-repeat: no-repeat;
 }
 
+/* Main */
+
+.card-title {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
 /* Footer */
 .footer-section {
   width: 100%;
