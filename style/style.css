@@ -1,0 +1,26 @@
+* {
+  @import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@700;800&display=swap");
+}
+.menubar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.menus {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+.icon-text {
+  font-family: "Work Sans", sans-serif;
+  font-size: 25px;
+}
+.primary {
+  color: rgb(255, 66, 165);
+}
+.menu-icon {
+  display: flex;
+  align-items: center;
+}
+.menu-btn {
+  border-radius: 5px;
+}
