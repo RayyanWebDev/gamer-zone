@@ -127,18 +127,20 @@
 }
 
 /* Body */
-
+.body-img-container {
+  width: 100%;
+}
 .body-img {
   width: 500px;
   height: auto;
-  /* position: relative; */
-  margin-bottom: 180px;
-  margin-right: 500px;
+  /* margin-left: 300px;
+  margin-bottom: 120px;
+  position: relative; */
 }
 .stick-img {
   /* width: 250px;
-  position: absolute; */
-  /* left: 390px;
+  position: absolute;
+  left: 675px;
   top: 1590px; */
 }
 
