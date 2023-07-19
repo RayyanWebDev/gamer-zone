@@ -128,8 +128,10 @@
 
 /* Body */
 .body-container {
+  max-width: 1950px;
+  min-height: 150px;
   display: flex;
-  justify-content: center;
+  align-items: center;
 }
 .body-img-container {
   width: 50%;
