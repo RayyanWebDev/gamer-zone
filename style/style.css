@@ -109,6 +109,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-bottom: 10px;
 }
 .footer-icon-text {
   font-family: "Work Sans", sans-serif;
@@ -120,16 +121,25 @@
 .footer-menu {
   display: flex;
   justify-content: center;
+  margin-bottom: 20px;
 }
 .footer-icon-section {
   display: flex;
   justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+  gap: 30px;
+  font-size: 25px;
 }
 .terms-conditions {
   display: flex;
   justify-content: center;
+  margin-bottom: 20px;
 }
 .copyright {
   display: flex;
   justify-content: center;
+}
+.footer-section {
+  background-color: black;
 }
