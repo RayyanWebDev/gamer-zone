@@ -53,6 +53,7 @@
   display: flex;
   gap: 2rem;
   padding: 1rem 0rem;
+  margin-top: 35px;
 }
 .sign-in-btn {
   text-decoration: none;
@@ -84,4 +85,13 @@
 }
 .banner-text {
   width: 50%;
+}
+.text-p {
+  font-size: 35px;
+  margin-bottom: 0px;
+}
+.goat {
+  font-size: 70px;
+  margin-top: 0px;
+  margin-bottom: 10px;
 }
