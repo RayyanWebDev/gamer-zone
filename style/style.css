@@ -50,3 +50,6 @@
 
   background-color: rgb(231, 230, 233);
 }
+.banner-btns {
+  display: flex;
+}
