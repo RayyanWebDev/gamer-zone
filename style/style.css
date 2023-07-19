@@ -131,10 +131,15 @@
 .body-img {
   width: 500px;
   height: auto;
+  /* position: relative; */
+  margin-bottom: 180px;
+  margin-right: 500px;
 }
 .stick-img {
-  width: 250px;
-  border: 15px solid blue;
+  /* width: 250px;
+  position: absolute; */
+  /* left: 390px;
+  top: 1590px; */
 }
 
 /* Footer */
