@@ -9,10 +9,17 @@
 .primary {
   color: rgb(255, 66, 165);
 }
+.menu-container {
+  /* margin: 0 auto; */
+
+  align-items: center;
+  border: 1px solid red;
+}
 .menu-icon {
+  width: 50%;
+  /* margin: 0 auto; */
   display: flex;
   align-items: center;
-}
-.menu-container {
-  display: flex;
+
+  /* border: 1px solid black; */
 }
