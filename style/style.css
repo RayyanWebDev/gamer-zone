@@ -128,26 +128,13 @@
 
 /* Body */
 .body-img-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 330px;
 }
 .body-img {
-  width: 500px;
-  height: auto;
-
-  margin-bottom: 120px;
-  position: relative;
 }
 .stick-img {
-  width: 250px;
-  /* right: 100px; */
-  position: absolute;
-  left: 810px;
-  top: 1590px;
 }
-
+.body-img-text {
+}
 /* Footer */
 .footer-section {
   width: 100%;
