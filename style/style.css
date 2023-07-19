@@ -55,3 +55,17 @@
   gap: 2rem;
   padding: 1rem 0rem;
 }
+.sign-in-btn {
+  text-decoration: none;
+  background-color: rgb(255, 66, 165);
+  border-radius: 21px;
+  padding: 10px 15px;
+  color: white;
+}
+.go-rogue-btn {
+  text-decoration: none;
+  background-color: rgb(78, 197, 247);
+  border-radius: 21px;
+  padding: 10px 15px;
+  color: white;
+}
