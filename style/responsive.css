@@ -5,4 +5,10 @@
   .menu-bar {
     flex-direction: column;
   }
+  .menus {
+    margin-top: 20px;
+  }
+  .menu-btn {
+    margin-top: 20px;
+  }
 }
