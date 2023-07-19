@@ -160,6 +160,26 @@
 .body-img-text {
   width: 50%;
 }
+
+/* Game Section */
+
+.game-container {
+  background-color: rgb(255, 249, 252);
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  margin: 0 auto;
+}
+.img {
+  width: 10%;
+}
+.game > a,
+img {
+  display: flex;
+  align-items: center;
+
+  background-color: rgb(163, 55, 55);
+}
+
 /* Footer */
 .footer-section {
   width: 100%;
