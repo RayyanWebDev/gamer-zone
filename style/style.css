@@ -169,15 +169,33 @@
   grid-template-columns: repeat(4, 1fr);
   margin: 0 auto;
 }
+.font {
+  font-size: 15px;
+  text-decoration: none;
+  background: ;
+}
+a:hover {
+  color: brown;
+  background-color: aliceblue;
+}
 .img {
   width: 10%;
 }
-.game > a,
-img {
+.game {
   display: flex;
   align-items: center;
-
-  background-color: rgb(163, 55, 55);
+}
+.more-game {
+  display: flex;
+  align-items: center;
+}
+.game > a {
+  display: flex;
+  align-items: center;
+}
+.more-game > a {
+  display: flex;
+  align-items: center;
 }
 
 /* Footer */
