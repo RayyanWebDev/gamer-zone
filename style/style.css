@@ -132,6 +132,10 @@
   width: 500px;
   height: auto;
 }
+.stick-img {
+  width: 250px;
+  border: 15px solid blue;
+}
 
 /* Footer */
 .footer-section {
