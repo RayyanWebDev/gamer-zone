@@ -127,13 +127,17 @@
 }
 
 /* Body */
-.body-img-container {
+.body-container {
+  display: flex;
+  justify-content: center;
 }
-.body-img {
+.body-img-container {
+  width: 50%;
 }
 .stick-img {
 }
 .body-img-text {
+  width: 50%;
 }
 /* Footer */
 .footer-section {
