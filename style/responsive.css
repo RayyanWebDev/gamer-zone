@@ -36,4 +36,7 @@
   .card-texts {
     flex-direction: column;
   }
+  .body-container {
+    flex-direction: column;
+  }
 }
