@@ -259,11 +259,10 @@ a:hover {
 }
 .card-img {
   opacity: 1;
-  fill-opacity: green;
-  fill-opacity: 0.5;
 }
 .play-container:hover .card-img {
-  opacity: 0.3;
+  opacity: 0.5;
+  filter: brightness(50%);
 }
 
 .game-card-3:hover {
