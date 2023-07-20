@@ -251,6 +251,10 @@ a:hover {
   left: 50%;
   transform: translate(-50%);
   text-align: center;
+  opacity: 0;
+}
+.play-container:hover .play {
+  opacity: 1;
 }
 
 .game-card-3:hover {
