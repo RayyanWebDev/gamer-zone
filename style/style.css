@@ -369,7 +369,7 @@ a:hover {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-top: 70px;
+  padding-top: 20px;
 }
 
 .footer-icon-section > i {
