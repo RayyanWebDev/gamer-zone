@@ -161,13 +161,13 @@
 
 /* Game Section */
 
-.game-container {
+/* .game-container {
   background-color: rgb(255, 249, 252);
   display: grid;
-  /* grid-template-columns: repeat(5, 1fr); */
+  
 
   margin-left: 30%;
-  /* column-gap: 1px; */
+  
   width: 1400px;
 }
  {
@@ -189,6 +189,112 @@ a:hover {
 .game {
   width: 50%;
   height: auto;
+} */
+
+/* new */
+
+.games-container {
+  border: 2px solid red;
+  max-width: 1400px;
+  margin: 50px auto 10px;
+  min-height: 400px;
+}
+.game-card1 {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.img-1 {
+  width: 80%;
+  height: auto;
+}
+
+.game-card-1 {
+  width: 55%;
+  display: grid;
+  grid-template-columns: 50px 1fr;
+  background-color: white;
+  align-items: center;
+}
+.game-card-1:hover {
+  border: groove 2px rgb(255, 66, 165);
+  border-radius: 2rem;
+}
+.game-card-2 {
+  width: 55%;
+  display: grid;
+  grid-template-columns: 50px 1fr;
+  background-color: white;
+  align-items: center;
+}
+.game-card-2:hover {
+  border: groove 2px rgb(255, 66, 165);
+  border-radius: 2rem;
+}
+a:hover {
+  color: rgb(255, 66, 165);
+}
+.game-card-3 {
+  width: 55%;
+  display: grid;
+  grid-template-columns: 50px 1fr;
+  background-color: white;
+  align-items: center;
+}
+.game-card-3:hover {
+  border: groove 2px rgb(255, 66, 165);
+  border-radius: 2rem;
+}
+.game-card-4 {
+  width: 55%;
+  display: grid;
+  grid-template-columns: 50px 1fr;
+  background-color: white;
+  align-items: center;
+}
+.game-card-4:hover {
+  border: groove 2px rgb(255, 66, 165);
+  border-radius: 2rem;
+}
+.game-card-5 {
+  width: 55%;
+  display: grid;
+  grid-template-columns: 50px 1fr;
+  background-color: white;
+  align-items: center;
+}
+.game-card-5:hover {
+  border: groove 2px rgb(255, 66, 165);
+  border-radius: 2rem;
+}
+
+.game-card2 {
+  margin-top: 1%;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.game-card-6 {
+  margin-left: 12%;
+  width: 55%;
+  display: grid;
+  grid-template-columns: 50px 1fr;
+  background-color: white;
+  align-items: center;
+}
+.game-card-7 {
+  width: 55%;
+  display: grid;
+  grid-template-columns: 50px 1fr;
+  background-color: white;
+  align-items: center;
+}
+.game-card-8 {
+  width: 55%;
+  display: grid;
+  grid-template-columns: 50px 1fr;
+  background-color: white;
+  align-items: center;
 }
 
 /* Footer */
