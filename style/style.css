@@ -101,7 +101,7 @@
 
 /* Main */
 /* Card */
-.card-title {
+/* .card-title {
   display: grid;
   justify-content: center;
   align-items: center;
@@ -122,6 +122,29 @@
   align-items: center;
   gap: 130px;
   margin-right: 65px;
+} */
+
+/* NEW */
+
+.card-container {
+  display: grid;
+  max-width: 1400px;
+  width: 1400px;
+  border: 2px solid red;
+  margin: 0 auto 25px;
+  min-height: 500px;
+}
+
+.card-1 {
+  width: 25%;
+
+  border: 1px solid green;
+}
+
+.card-1 img {
+  width: 100%;
+  display: block;
+  margin: 0 auto;
 }
 
 /* Body */
