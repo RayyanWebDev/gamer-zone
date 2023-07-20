@@ -16,8 +16,15 @@
   }
   .banner-text {
     width: 100%;
-
-    align-items: center;
+    text-align: center;
+  }
+  .btn-1 {
+    width: 50%;
+    text-align: center;
+  }
+  .btn-2 {
+    width: 50%;
+    text-align: center;
   }
   .banner-img-container {
     width: 100%;
