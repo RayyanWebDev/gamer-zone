@@ -271,12 +271,12 @@ a:hover {
 .game-card2 {
   margin-top: 1%;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(5, 1fr);
 }
 
 .game-card-6 {
-  margin-left: 12%;
-  width: 35%;
+  margin-left: 15%;
+  width: 55%;
   display: grid;
   grid-template-columns: 50px 1fr;
   background-color: white;
@@ -287,7 +287,8 @@ a:hover {
   border-radius: 2rem;
 }
 .game-card-7 {
-  width: 35%;
+  margin-left: 15%;
+  width: 55%;
   display: grid;
   grid-template-columns: 50px 1fr;
   background-color: white;
@@ -298,7 +299,8 @@ a:hover {
   border-radius: 2rem;
 }
 .game-card-8 {
-  width: 35%;
+  margin-left: 15%;
+  width: 55%;
   display: grid;
   grid-template-columns: 50px 1fr;
   background-color: white;
