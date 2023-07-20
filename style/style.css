@@ -311,8 +311,32 @@ a:hover {
   border: groove 2px rgb(255, 66, 165);
   border-radius: 2rem;
 }
+
+/* NEW */
+.footer-menu-container {
+  max-width: 1400px;
+  border: 2px solid red;
+  min-height: 400px;
+  margin: 0 auto;
+}
+
+.footer-menu > a {
+  margin-right: 25px;
+}
+
+.footer-menu-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer-icon-section > i {
+  margin-right: 20px;
+  font-size: 40px;
+}
+
 /* Footer */
-.footer-section {
+/* .footer-section {
   width: 100%;
   height: auto;
 }
@@ -364,4 +388,4 @@ a:hover {
 .footer-text {
   text-decoration: none;
   color: white;
-}
+} */
