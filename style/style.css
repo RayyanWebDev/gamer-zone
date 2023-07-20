@@ -162,11 +162,17 @@
 /* Game Section */
 
 .games-container {
-  border: 2px solid red;
-  max-width: 1400px;
-  margin: 50px auto 10px;
-  min-height: 130px;
+  /* border: 2px solid red; */
   background-color: rgb(255, 249, 252);
+}
+
+.container {
+  /* border: 2px solid red; */
+  max-width: 1400px;
+
+  margin: 0 auto;
+  min-height: 130px;
+  /* background-color: rgb(255, 249, 252); */
 }
 
 .game-anchor {
@@ -174,7 +180,7 @@
 }
 
 .game-card1 {
-  margin-top: 1%;
+  margin-top: 3%;
   display: grid;
   grid-template-columns: repeat(5, 1fr);
 }
@@ -196,7 +202,7 @@
   border-radius: 2rem;
 }
 .game-card-2 {
-  width: 60%;
+  width: 65%;
   display: grid;
   grid-template-columns: 50px 1fr;
   background-color: white;
@@ -244,7 +250,7 @@ a:hover {
 }
 
 .game-card2 {
-  margin-top: 1%;
+  margin-top: 2%;
   display: grid;
   grid-template-columns: repeat(5, 1fr);
 }
