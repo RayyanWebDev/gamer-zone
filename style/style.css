@@ -199,6 +199,11 @@ a:hover {
   margin: 50px auto 10px;
   min-height: 400px;
 }
+
+.game-anchor {
+  text-decoration: none;
+}
+
 .game-card1 {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
