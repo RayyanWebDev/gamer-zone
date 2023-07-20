@@ -242,6 +242,11 @@ a:hover {
   background-color: white;
   align-items: center;
 }
+
+.play {
+  /* position: absolute; */
+}
+
 .game-card-3:hover {
   border: groove 2px rgb(255, 66, 165);
   border-radius: 2rem;
