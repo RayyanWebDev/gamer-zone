@@ -39,4 +39,22 @@
   .body-container {
     flex-direction: column;
   }
+  .card-container {
+    display: flex;
+  }
+  .game-card1 {
+    margin-top: 3%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .game-card2 {
+    margin-top: 0%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  .game-card-6,
+  .game-card-6,
+  .game-card-6 {
+    margin-left: 0%;
+  }
 }

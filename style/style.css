@@ -115,10 +115,6 @@
   column-gap: 20px;
 }
 
-/* .card-1 {
-  border: 1px solid green;
-} */
-
 .card-1 img {
   width: 100%;
   display: block;
@@ -298,9 +294,20 @@ a:hover {
 .game-card2 {
   margin-top: 2%;
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(4, 1fr);
 }
 
+.game-card-55 {
+  width: 55%;
+  display: grid;
+  grid-template-columns: 50px 1fr;
+  background-color: white;
+  align-items: center;
+}
+.game-card-55:hover {
+  border: groove 2px rgb(255, 66, 165);
+  border-radius: 2rem;
+}
 .game-card-6 {
   margin-left: 15%;
   width: 70%;
