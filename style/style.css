@@ -253,8 +253,17 @@ a:hover {
   text-align: center;
   opacity: 0;
 }
+
 .play-container:hover .play {
   opacity: 1;
+}
+.card-img {
+  opacity: 1;
+  fill-opacity: green;
+  fill-opacity: 0.5;
+}
+.play-container:hover .card-img {
+  opacity: 0.3;
 }
 
 .game-card-3:hover {
