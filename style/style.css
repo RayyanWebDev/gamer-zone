@@ -312,7 +312,7 @@ a:hover {
   border-radius: 2rem;
 }
 
-/* NEW */
+/* Footer */
 .footer-container {
   background-color: rgb(11, 2, 35);
 }
@@ -356,58 +356,3 @@ a:hover {
 .copyright {
   color: aliceblue;
 }
-
-/* Footer */
-/* .footer-section {
-  width: 100%;
-  height: auto;
-}
-.footer-menu-icon {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-bottom: 10px;
-  padding-top: 30px;
-}
-.footer-icon-text {
-  font-family: "Work Sans", sans-serif;
-  font-size: 25px;
-}
-.footer-icon {
-  margin-right: 10px;
-}
-.footer-menu {
-  display: flex;
-  justify-content: center;
-  margin-bottom: 20px;
-  color: white;
-  text-decoration: none;
-  gap: 30px;
-}
-.footer-icon-section {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-bottom: 20px;
-  gap: 30px;
-  font-size: 25px;
-}
-.terms-conditions {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-bottom: 20px;
-  color: white;
-}
-.copyright {
-  display: flex;
-  justify-content: center;
-  color: aliceblue;
-}
-.footer-section {
-  background-color: black;
-}
-.footer-text {
-  text-decoration: none;
-  color: white;
-} */
