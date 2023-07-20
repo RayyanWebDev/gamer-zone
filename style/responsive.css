@@ -24,6 +24,7 @@
   }
   .banner-text {
     width: 100%;
+    margin-left: 150px;
   }
   .banner-container {
     flex-direction: column;
@@ -94,5 +95,17 @@
   }
   .game-card-8 {
     width: 90%;
+  }
+  .body-img-container {
+    width: 100%;
+  }
+  .body-img-text {
+    width: 100%;
+  }
+  .body-text-h1 {
+    text-align: center;
+  }
+  .body-text-p {
+    text-align: center;
   }
 }
