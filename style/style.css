@@ -59,6 +59,9 @@
   padding: 10px 15px;
   color: white;
 }
+#sign:hover {
+  color: black;
+}
 .go-rogue-btn {
   text-decoration: none;
   background-color: rgb(78, 197, 247);
