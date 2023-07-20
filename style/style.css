@@ -161,43 +161,12 @@
 
 /* Game Section */
 
-/* .game-container {
-  background-color: rgb(255, 249, 252);
-  display: grid;
-  
-
-  margin-left: 30%;
-  
-  width: 1400px;
-}
- {
-}
-.font {
-  font-size: 15px;
-  text-decoration: none;
-}
-a:hover {
-  color: rgb(211, 9, 194);
-  background-color: aliceblue;
-  border-style: solid;
-  border-radius: 30%;
-  border-color: rgb(211, 9, 194);
-}
-.imge {
-  width: 10%;
-}
-.game {
-  width: 50%;
-  height: auto;
-} */
-
-/* new */
-
 .games-container {
   border: 2px solid red;
   max-width: 1400px;
   margin: 50px auto 10px;
-  min-height: 400px;
+  min-height: 130px;
+  background-color: rgb(255, 249, 252);
 }
 
 .game-anchor {
