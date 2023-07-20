@@ -276,27 +276,38 @@ a:hover {
 
 .game-card-6 {
   margin-left: 12%;
-  width: 55%;
+  width: 35%;
   display: grid;
   grid-template-columns: 50px 1fr;
   background-color: white;
   align-items: center;
+}
+.game-card-6:hover {
+  border: groove 2px rgb(255, 66, 165);
+  border-radius: 2rem;
 }
 .game-card-7 {
-  width: 55%;
+  width: 35%;
   display: grid;
   grid-template-columns: 50px 1fr;
   background-color: white;
   align-items: center;
+}
+.game-card-7:hover {
+  border: groove 2px rgb(255, 66, 165);
+  border-radius: 2rem;
 }
 .game-card-8 {
-  width: 55%;
+  width: 35%;
   display: grid;
   grid-template-columns: 50px 1fr;
   background-color: white;
   align-items: center;
 }
-
+.game-card-8:hover {
+  border: groove 2px rgb(255, 66, 165);
+  border-radius: 2rem;
+}
 /* Footer */
 .footer-section {
   width: 100%;
