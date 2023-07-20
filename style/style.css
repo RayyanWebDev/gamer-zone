@@ -334,6 +334,9 @@ a:hover {
   margin-right: 20px;
   font-size: 40px;
 }
+.terms-conditions-container > a {
+  margin-right: 25px;
+}
 
 /* Footer */
 /* .footer-section {
