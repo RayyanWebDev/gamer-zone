@@ -22,7 +22,7 @@
   .banner-img-container {
     width: 100%;
   }
-  .banner-text {
+  */ .banner-text {
     width: 100%;
     margin-left: 150px;
   }
@@ -31,11 +31,15 @@
   }
   .footer-section {
   }
+
   .card-container {
     flex-direction: column;
   }
   .card-texts {
     flex-direction: column;
+  }
+  .card-1-text {
+    margin-left: 90px;
   }
   .body-container {
     flex-direction: column;
